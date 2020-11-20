@@ -1,4 +1,4 @@
-[<html>
+<html>
 <head>
 <title>ITF Lab</title>
 </head>
@@ -35,4 +35,4 @@ while($Result = mysqli_fetch_array($res))
 mysqli_close($conn);
 ?>
 </body>
-</html>]
+</html>
